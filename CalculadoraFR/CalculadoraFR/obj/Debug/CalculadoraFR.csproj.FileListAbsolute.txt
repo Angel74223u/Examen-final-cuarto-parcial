@@ -1,0 +1,9 @@
+C:\Users\IDL Alumno\Desktop\Trabajos_AngelCaceres\CalculadoraFR\CalculadoraFR\bin\Debug\CalculadoraFR.exe.config
+C:\Users\IDL Alumno\Desktop\Trabajos_AngelCaceres\CalculadoraFR\CalculadoraFR\bin\Debug\CalculadoraFR.exe
+C:\Users\IDL Alumno\Desktop\Trabajos_AngelCaceres\CalculadoraFR\CalculadoraFR\bin\Debug\CalculadoraFR.pdb
+C:\Users\IDL Alumno\Desktop\Trabajos_AngelCaceres\CalculadoraFR\CalculadoraFR\obj\Debug\CalculadoraFR.csprojResolveAssemblyReference.cache
+C:\Users\IDL Alumno\Desktop\Trabajos_AngelCaceres\CalculadoraFR\CalculadoraFR\obj\Debug\CalculadoraFR.Form1.resources
+C:\Users\IDL Alumno\Desktop\Trabajos_AngelCaceres\CalculadoraFR\CalculadoraFR\obj\Debug\CalculadoraFR.Properties.Resources.resources
+C:\Users\IDL Alumno\Desktop\Trabajos_AngelCaceres\CalculadoraFR\CalculadoraFR\obj\Debug\CalculadoraFR.csproj.GenerateResource.Cache
+C:\Users\IDL Alumno\Desktop\Trabajos_AngelCaceres\CalculadoraFR\CalculadoraFR\obj\Debug\CalculadoraFR.exe
+C:\Users\IDL Alumno\Desktop\Trabajos_AngelCaceres\CalculadoraFR\CalculadoraFR\obj\Debug\CalculadoraFR.pdb
